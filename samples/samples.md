@@ -1,6 +1,6 @@
 ## writing samples
 
-[back home](portfolio.tylermonaghan.com)
+[back home](/./index.md)
 
 #### essays
 
