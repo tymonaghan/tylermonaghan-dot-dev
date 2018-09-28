@@ -1,6 +1,6 @@
 ## writing samples
 
-[back home](/index.md)
+[back home](index.md)
 
 #### essays
 
