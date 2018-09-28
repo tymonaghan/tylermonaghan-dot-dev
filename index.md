@@ -1,8 +1,4 @@
-# tylermonaghan-dot-com
-
-professional portfolio
-
-Repo for code samples, resumes, writing samples, etc. for tylermonaghan.com
+# Tyler's professional portfolio
 
 [View my resume](docs/TMonaghan-Resume.pdf)
 
