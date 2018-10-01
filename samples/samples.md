@@ -1,30 +1,28 @@
-## writing samples
+[back to portfolio.tylermonaghan.com](../index.md)
 
-[back home](../index.md)
-
-#### essays
+### essays
 
 [ Leisure in America](LeisureInAmerica.pdf) historiographical essay for History of Urban America course
 
 [ Chicago's Black "Ghetto"](Chicago-Ghetto-historiography.pdf) historiographical essay for African-American Chicago course
 
-#### blogs
+### blogs
 
 [Digital Humonaghan](https://dh400monaghan.wordpress.com/) DH blog for Introduction to DH Design & Programming
 
 [SOTU-db dev blog](gitpages.sotu-db.com) documenting the State of the Union Database project
 
-[tylermonaghan.com](blog.tylermonaghan.com) blogging my experiences learning to code, more to come
+[Monablog](blog.tylermonaghan.com) blogging my experiences learning to code, more to come
 
-#### instructional
+### instructional
 
 ["Archive Buddy" demo](https://luc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84237a74-946f-43e0-b70a-a9370155f95f) (outside link) demo video for prototype mobile app for researchers conducting archival research
 
 [Explore Common Sense lesson plans (sample)](ECS-lesson-package.pdf)
 
-[full version at explorecommonsense.com (coming soon)](http://explorecommonsense.com/educators) (outside link)
+> [full version at explorecommonsense.com (coming soon)](http://explorecommonsense.com/educators) (outside link)
 
-#### other
+### other
 
 [Scholarly edition of Lincoln's Gettysburg Address](Lincoln-Gettysburg-scholarly-ed-by-TMonaghan.pdf) printable as a mini-book, includes facsimiles and apparatus of multiple editions of the Gettysburg Address
 
