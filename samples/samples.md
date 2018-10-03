@@ -18,7 +18,7 @@
 
 ["Archive Buddy" demo](https://luc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=84237a74-946f-43e0-b70a-a9370155f95f) (outside link) demo video for prototype mobile app for researchers conducting archival research
 
-[Explore Common Sense lesson plans](http://explorecommonsense.com/educators) (Click the "PDF Teacher's Guide" link)(outside link)
+[Explore Common Sense lesson plans](http://explorecommonsense.com/educators) (Click the "PDF Teacher's Guide" link)(outside link) package of lesson plans designed around the "Explore Common Sense" digital edition
 
 ### other
 
