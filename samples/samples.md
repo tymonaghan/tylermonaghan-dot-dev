@@ -10,9 +10,9 @@
 
 [Digital Humonaghan](https://dh400monaghan.wordpress.com/) DH blog for Introduction to DH Design & Programming
 
-[SOTU-db dev blog](gitpages.sotu-db.com) documenting the State of the Union Database project
+[SOTU-db dev blog](http://blog.sotu-db.com/) documenting the State of the Union Database project
 
-[Monablog](blog.tylermonaghan.com) blogging my experiences learning to code, more to come
+[Monablog](https://blog.tylermonaghan.com/) blogging my experiences learning to code, more to come
 
 ### instructional
 
