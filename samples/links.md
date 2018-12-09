@@ -1,5 +1,5 @@
 **creator and project manager:**<br>
-[SOTU-db web interface for running textual analysis on US State of the Union addresses](www.sotu-db.com) (pre-alpha - functionality might be broken or absent. Visit the [development blog](blog.sotu-db.com) for details and updates.)
+["SOTU-db" web interface for running textual analysis on US State of the Union addresses](www.sotu-db.com) (alpha release - functionality might be broken or absent. Visit the [development blog](blog.sotu-db.com) for details and updates.)
 
 **coordinator:**<br>
 [Loyola CTSDH Humanities Datebook](https://www.luc.edu/ctsdh/resources/humanitiesdatebook/)
