@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/x-icon" href="tm-icon.png">
+
 [View my resume](docs/TMonaghan-Resume.pdf)
 
 [View selected writing samples](/samples/samples.md)
