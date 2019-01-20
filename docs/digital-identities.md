@@ -3,4 +3,4 @@
 I primarily use Twitter as a newsfeed and am an infrequent Tweeter myself.
 [@tymonaghan on Twitter](https://www.twitter.com/tymonaghan)
 
-A sparsely-populated [personal blog](blog.tylermonaghan.com)
+[Monablog](https://blog.tylermonaghan.com/), A sparsely-populated personal blog
