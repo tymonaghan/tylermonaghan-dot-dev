@@ -1,5 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="tm-icon.png">
 
+![headshot of Tyler Monaghan](/img/biopic2.png "headshot")
+
 [View my resume](docs/TMonaghan-Resume.pdf)
 
 [View selected writing samples](/samples/samples.md)
