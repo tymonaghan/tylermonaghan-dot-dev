@@ -1,6 +1,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="tm-icon.png">
 
-![headshot of Tyler Monaghan](/img/biopic2.png "headshot")
+![headshot of Tyler Monaghan](img/biopic2.png "headshot")
+
 I am the Chicago Metro History Fair Program Specialist at the Chicago History Museum, a digital historian, and the creator of SOTU-db, a digital tool for performing sentiment analysis on the texts of US Presidents' "State of the Union" addresses.
 
 - [MA, Digital Humanities, Loyola University Chicago](https://luc.edu/ctsdh/academics/maindigitalhumanities/)
