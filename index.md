@@ -9,7 +9,7 @@ I am the Chicago Metro History Fair Program Specialist at the Chicago History Mu
 
 [Digital Identites and Networks](docs/digital-identities.md)
 
-["SOTU-db"](http://www.sotu-db.com) web interface for running textual analysis on US State of the Union addresses (alpha release - functionality might be broken or absent. Visit the [development blog](blog.sotu-db.com) for details and updates.)
+["SOTU-db"](http://www.sotu-db.com) web interface for running textual analysis on US State of the Union addresses (alpha release - functionality might be broken or absent. Visit the [development blog](http://blog.sotu-db.com) for details and updates.)
 
 [View my resume](docs/TMonaghan-Resume.pdf)
 
