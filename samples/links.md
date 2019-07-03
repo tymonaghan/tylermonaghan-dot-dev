@@ -14,3 +14,6 @@
 
 **encoder, design contributor:**<br>
 ["Man into Woman:" A Digital Archive of the Life Narrative of Lili Elbe](http://www.lilielbe.org) (pre-release - coming soon)
+
+**test:**<br>
+[click here for iCal of 2020CMHF key dates and deadlines](https://calendar.google.com/calendar/ical/i6vmdio1vjquuodj0qfgnjonls%40group.calendar.google.com/public/basic.ics)
