@@ -9,8 +9,5 @@
 
 - [capstone defense](https://luc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a156a239-eef4-411f-bb3e-a9ac014af9a9) - a video of my defense of SOTU-db at Loyola University Chicago's Center for Textual Studies and Digital Humanities
 
-**coordinator:**<br>
-[Loyola CTSDH Humanities Datebook](https://www.luc.edu/ctsdh/resources/humanitiesdatebook/)
-
 **encoder, design contributor:**<br>
-["Man into Woman:" A Digital Archive of the Life Narrative of Lili Elbe](http://www.lilielbe.org) (pre-release - coming soon)
+[Lili Elbe Digital Archive](http://www.lilielbe.org)
