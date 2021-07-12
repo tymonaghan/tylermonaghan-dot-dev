@@ -1,3 +1,3 @@
-This repo hosts my portfolio site via Github pages at portfolio.tylermonaghan.com.
+This repo hosts my personal site at www.tylermonaghan.dev
 
-Built with GitHub pages using Tactile theme.
+Built with GitHub pages
