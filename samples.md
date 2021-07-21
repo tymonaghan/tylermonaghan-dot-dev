@@ -1,5 +1,5 @@
 *[back to tylermonaghan.dev](../index.md)*
-
+# Samples
 ### essays
 
 [ Leisure in America](docs/LeisureInAmerica.pdf) historiographical essay for History of Urban America course
@@ -16,7 +16,7 @@
 
 ["Archive Buddy" demo](https://youtu.be/-juLrUvyT34) demo video for prototype mobile app for researchers conducting archival research
 
-[Explore Common Sense lesson plans](http://explorecommonsense.com/educators) package of lesson plans designed around the "Explore Common Sense" digital edition (Click the "PDF Teacher's Guide" link) 
+[Explore Common Sense lesson plans](http://explorecommonsense.com/educators) package of lesson plans designed around the "Explore Common Sense" digital edition (Click the "PDF Teacher's Guide" link)
 
 [November 30, 2018 CTSDH server workshop PPT](humanities-server-workshop.pptx) workshop on why and how to create one's own server that can host a basic web page
 
