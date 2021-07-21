@@ -12,6 +12,7 @@ Cyber-electronic radical version of tic tac toe.
 
 ## Clothes Picker
 Use a weather API to help my wonderful wife decide what to wear.
-- [Clothes Picker repo on GitHub](https://github.com/tymonaghan/clothes-picker)
+- [Clothes Picker repo on GitHub](https://github.com/tymonaghan/clothes-picker)  
+
 ------
 ![Tyler looking over the top of a foamboard drawing of the Chicago flag with the word "TYLER" on top in orange marker](img/chiflagpic-400w.jpg)
