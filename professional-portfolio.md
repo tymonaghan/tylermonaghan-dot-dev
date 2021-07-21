@@ -1,5 +1,4 @@
-*[back to tylermonaghan.dev](index.md)*
-
+*[back to tylermonaghan.dev](index.md)*  
 
 # Professional Portfolio
 This page contains samples of my software that relate to history and education.  
@@ -30,3 +29,6 @@ A digital edition of the British version of Thomas Paine's *Common Sense,* by Ka
 *encoder, design contributor:*<br>
 A digital archive of Lili Elbe's life narrative, "the first popular and well-documented narrative of genital transformation surgery," published under the title *Man Into Woman*. I had the opportunity to assist with textual encoding for this impressive project. I also contributed to the design of the website by authoring an HTML mockup and participating in the collaborative revision process.  
 - [Lili Elbe Digital Archive](http://www.lilielbe.org)
+
+## Other Samples
+[Click here to see more links to sample essays, workshops, etc.](samples.md)
