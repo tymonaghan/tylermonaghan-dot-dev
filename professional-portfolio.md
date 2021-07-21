@@ -3,19 +3,22 @@
 
 # Professional Portfolio
 This page contains samples of my software that relate to history and education.  
-## SOTU-db
+## Project Lead
+### SOTU-db
 *Creator and project manager*   
 SOTU-db (State of the Union Database) web interface for running sentiment and other textual analyses on US State of the Union addresses.  
 - [SOTU-db](http://www.sotu-db.com) - the live SOTU-db homepage (alpha release - functionality might be broken or absent)  
 - [development blog](http://blog.sotu-db.com) - for behind-the-scenes project details and updates  
 - [capstone defense](https://luc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a156a239-eef4-411f-bb3e-a9ac014af9a9) - a video of my defense of SOTU-db at Loyola University Chicago's Center for Textual Studies and Digital Humanities
+![Tyler Monaghan standing and gesturing in front of a poster with text about SOTU-db](img/sotu-db-at-HGSA-2018-500w.jpg)
 
-## Archive Buddy
+### Archive Buddy
 *Creator*  
 Prototype mobile app for researchers working with archival materials to find, photograph, tag, and sort source materials, developed in consultation with Loyola University Chicago archivists.
 - [GitHub repo](https://github.com/tymonaghan/archive-buddy) (contains link to .apk Android package - requires sideloading - use at your own risk)
 - [demo video](https://youtu.be/-juLrUvyT34)
 
+## Collaborations
 ### Explore Common Sense
 *Education Consultant; Author, Teacher's Guide*  
 A digital edition of the British version of Thomas Paine's *Common Sense,* by Kate Johnson, Marie Pellissier, and Kelly Schmidt. I had the opportunity to author the Teacher's Guide that accompanies this wonderful project.
