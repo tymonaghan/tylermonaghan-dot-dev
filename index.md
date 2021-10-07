@@ -1,6 +1,8 @@
 <link rel="shortcut icon" type="image/x-icon" href="tm-icon.png">
 
-I am the Manager of the [Chicago Metro History Fair](http://www.chicagohistoryfair.org) at the [Chicago History Museum](http://www.chicagohistory.org), a digital historian, and the creator of [SOTU-db](http://www.sotu-db.com), a digital tool for performing sentiment analysis on the texts of US Presidents' "State of the Union" addresses.
+I am currently a student in Fullstack Academy's immersive web development course.
+
+I am a digital historian, tool builder, and the creator of [SOTU-db](http://www.sotu-db.com), a web-based interface for performing sentiment analysis on the texts of US Presidents' "State of the Union" addresses. I was previously the Manager of the [Chicago Metro History Fair](http://www.chicagohistoryfair.org) at the [Chicago History Museum](http://www.chicagohistory.org)
 
 ![headshot of Tyler Monaghan](img/biopic-400w.jpg "headshot")
 
