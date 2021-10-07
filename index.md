@@ -6,6 +6,6 @@ I am a digital historian, tool builder, and the creator of [SOTU-db](http://www.
 
 ![headshot of Tyler Monaghan](img/biopic-400w.jpg "headshot")
 
-* **[Professional Portfolio](professional-portfolio.md)**
+* **[Development Portfolio](dev-portfolio.md)**
 
-* **[Personal Portfolio](personal-portfolio.md)**
+* **[Personal and Other Professional Portfolio](personal-portfolio.md)**
