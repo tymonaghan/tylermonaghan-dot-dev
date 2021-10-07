@@ -8,7 +8,9 @@ A digital edition of the British version of Thomas Paine's *Common Sense,* by Ka
 ### Gettysburg Address Scholarly Edition
 A print scholarly edition of US President Abraham Lincoln's Gettysburg Address. Completed for Dr. Paul Eggert's Textual Criticism course at Loyola University Chicago.
 - [Scholarly edition of Lincoln's Gettysburg Address](docs/Lincoln-Gettysburg-scholarly-ed-by-TMonaghan.pdf) printable as a mini-book, includes facsimiles and apparatus of multiple editions of the Gettysburg Address
+
 ------
+
 ![Tyler looking over the top of a foamboard drawing of the Chicago flag with the word "TYLER" on top in orange marker](img/chiflagpic-400w.jpg)
 
 ### essays
