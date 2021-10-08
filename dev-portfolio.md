@@ -18,22 +18,22 @@ Prototype mobile app for researchers working with archival materials to find, ph
 - [demo video](https://youtu.be/-juLrUvyT34)
 
 ### Pie Chaser
-*Creator; Processing*
+*Creator; Processing*  
 Consume slices of pizza and pumpkin pie to avoid dying.
 - [Pie Chaser repo on GitHub](https://github.com/tymonaghan/pie-chaser)
 
 ### Tic Tac Tohmygod
-*Creator, Processing*
+*Creator, Processing*  
 Cyber-electronic radical version of tic tac toe.
 - [Tic Tac Tohmygod repo on GitHub](https://github.com/tymonaghan/tic-tac-tohmygod)
 
 ### Clothes Picker
-*Creator, Processing*
+*Creator, Processing*  
 Use a weather API to help my wonderful wife decide what to wear.
 - [Clothes Picker repo on GitHub](https://github.com/tymonaghan/clothes-picker)  
 
 ## Collaborations
 ### Lili Elbe Digital Archive
-*encoder, design contributor:*
+*encoder, design contributor:*  
 A digital archive of Lili Elbe's life narrative, "the first popular and well-documented narrative of genital transformation surgery," published under the title *Man Into Woman*. I had the opportunity to assist with textual encoding for this impressive project. I also contributed to the design of the website by authoring an HTML mockup and participating in the collaborative revision process.  
 - [Lili Elbe Digital Archive](http://www.lilielbe.org)
