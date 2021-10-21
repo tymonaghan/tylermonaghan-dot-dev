@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="tm-icon.png">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 I am currently a student in Fullstack Academy's immersive web development course.
 
