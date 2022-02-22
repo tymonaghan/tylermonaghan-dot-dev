@@ -4,6 +4,13 @@ _[<< back to tylermonaghan.dev](index.md)_
 
 Software projects I've worked on:
 
+## POSEle
+
+A mobile selfie game where users attempt to match a daily pose
+
+- [GitHub repo](https://github.com/team-posele/posele-app)
+- [Deployed app](https://posele.netlify.app/)
+
 ## Ice Resurfacer 2000
 
 A top-down driving action game built with Phaser.
