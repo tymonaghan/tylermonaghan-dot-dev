@@ -2,6 +2,8 @@ _[<< back to tylermonaghan.dev](index.md)_
 
 # Projects
 
+**Please Note:**  I am currently working on a new digital portfolio site at [portfolio.tylermonaghan.dev](https://portfolio.tylermonaghan.dev)!
+
 Software projects I've worked on:
 
 ## POSEle
