@@ -6,6 +6,8 @@ I was previously the Manager of the [_Chicago Metro History Fair_ (now _History 
 
 ![headshot of Tyler Monaghan](img/biopic-400w.jpg "headshot")
 
-- **[Software Projects](projects.md)**
+- **[Software Development Portfolio](https://portfolio.tylermonaghan.dev)**
 
-- **[Personal and Academic Portfolio](personal-portfolio.md)**
+- [Video Editing Portfolio](https://youtube.com/playlist?list=PLNfOYoJq-Yg6JX4UZsJK9LDvFaHztS59G)
+
+- [Personal and Academic Portfolio](personal-portfolio.md)
