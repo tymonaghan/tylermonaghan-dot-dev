@@ -1,5 +1,8 @@
 _[<< back to tylermonaghan.dev](index.md)_
 
+**Please Note:** 
+*this section is no longer maintained; the below links are all from 2018 and earlier.*
+
 ### Explore Common Sense
 
 A digital edition of the British version of Thomas Paine's _Common Sense,_ by Kate Johnson, Marie Pellissier, and Kelly Schmidt. I had the opportunity to author the Teacher's Guide that accompanies this wonderful project.
